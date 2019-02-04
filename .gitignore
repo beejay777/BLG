@@ -14,3 +14,5 @@ stylesheets/bundles
 bin/
 include/
 lib/
+__pycache__/
+
